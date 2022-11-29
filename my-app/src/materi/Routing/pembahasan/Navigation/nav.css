@@ -1,0 +1,24 @@
+/* li {
+    list-style-type: none;
+    
+    margin: 0 2rem;
+} */
+.link{
+    display: flex;
+    font-size: large;
+    font-weight: 500;
+    color: rgb(126, 126, 126);
+    margin: 0 2rem;
+    text-decoration: none;
+}
+.link:hover{
+    color: white;
+}
+.navBar  {
+    padding: 9px;
+    background-color:black;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+   
+}
